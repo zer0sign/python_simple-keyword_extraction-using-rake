@@ -22,6 +22,9 @@ keywords = text_rake.run(text)
 
 print(keywords)
 
+# output
+# [('python', 1.0), ('rake', 1.0), ('keyword', 1.0), ('extraction', 1.0)]
+
 
 
 
